@@ -64,7 +64,7 @@ The code for the linear regression analysis can be found in the Linear_Regressio
 
 To run the analysis:
 
-1. Clone the repository:
+1. Clone the following repository:
    ```bash
    git clone https://github.com/rdc2697/TB_WHO2023.git
    cd TB_WHO2023
