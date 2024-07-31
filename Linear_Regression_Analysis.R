@@ -1,17 +1,12 @@
-# Load necessary libraries
 library(data.table)
 library(ggplot2)
 library(caret)
 library(corrplot)
 
-# Load your data from the .rda file
 load("C:/Users/rdc26/TB_WHO2023/data/gtb/snapshot_2023-07-21/tb.rda")
 
-# List the objects in the environment to find the correct variable name
 ls()
 
-# Replace 'tb' with the actual variable name if it is different
-# Convert to data.table
 tb <- as.data.table(tb)  # Use the correct variable name here
 
 # Select non-empty columns
