@@ -32,6 +32,10 @@ A linear regression model was built to predict new TB cases (`new.sp`) using var
    - The model was evaluated using RMSE, R-squared, and MAE.
    - Visualizations were created to compare predictions with actual values and to analyze residuals.
 
+### Code
+
+The code for the linear regression analysis can be found in the Linear_Regression_Analysis.R file in the directory. 
+
 ## Analysis and Visualization
 
 ### Correlation Matrix
